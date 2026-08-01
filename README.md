@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Beza👋
 
-<!--
-**Bezub/bezub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about software development and AI. I enjoy building practical projects, learning new technologies, and solving real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 BSc Computer Science student
+- 🌱 Currently learning Artificial Intelligence
+- 💻 Interested in Web Development, AI, and Software Engineering
+- 📫 Reach me: bezaberhanu92@gmail.com
+- 🌍 Based in Ethiopia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+**Languages**
+- C++
+- Python
+- Java
+- HTML
+- CSS
+- SQL
+
+**Frameworks & Libraries**
+- Django
+- Tailwind CSS
+- Streamlit
+
+**Databases**
+- PostgreSQL
+- SQLite
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Click here](www.linkedin.com/in/beza-berhanu-140639365)
