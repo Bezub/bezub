@@ -1,13 +1,13 @@
-# Hi, I'm Beza👋
+# Hi, I'm Beza
 
 Computer Science student passionate about software development and AI. I enjoy building practical projects, learning new technologies, and solving real-world problems.
 
-## 🚀 About Me
-- 🎓 BSc Computer Science student
-- 🌱 Currently learning Artificial Intelligence
-- 💻 Interested in Web Development, AI, and Software Engineering
-- 📫 Reach me: bezaberhanu92@gmail.com
-- 🌍 Based in Ethiopia
+## About Me
+- BSc Computer Science student
+- Currently learning Artificial Intelligence
+- Interested in Web Development, AI, and Software Engineering
+- Reach me: bezaberhanu92@gmail.com
+- Based in Ethiopia
 
 ## 🛠️ Technologies & Tools
 
